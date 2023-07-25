@@ -1,2 +1,2 @@
 # My Portfolio
- My personal portfolio
+ Portfolio using HTML, CSS, JS
